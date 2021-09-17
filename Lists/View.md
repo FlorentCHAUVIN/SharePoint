@@ -1,6 +1,9 @@
-# Quelques astuces sur les vues
+**Vous trouverez dans cette page quelques astuces sur les vues**
 
-## Visualiser de manière dynamique les élements de l'année en cours, à venir ou précédentes
+- [Visualiser de manière dynamique les élements de l'année en cours, à venir ou précédentes](#visualiser-de-manière-dynamique-les-élements-de-lannée-en-cours-à-venir-ou-précédentes)
+
+
+# Visualiser de manière dynamique les élements de l'année en cours, à venir ou précédentes
 
 Il faut tout d'abord soit avoir une colonne de type texte avec l'année soit une colonne de type date faisant référence à la date sur laquelle vous souhaitez filtrer.
 Ensuite il suffit de suivre le mode opératoire suivant utilisant des colonnes calculés.
