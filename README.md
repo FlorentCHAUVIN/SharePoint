@@ -10,5 +10,5 @@ Bien entendu, je décline toute responsabilité sur l'usage que vous pourriez fa
 # SOMMAIRE
 
 - [Lists](Lists)
-  - [Update list URI](Lists/Update_List_URI.ps1)
-  - [View](Lists/View.md)
+  - [Manipulate lists & items with PnP](Lists/Lists&items_pnp.md)
+  - [View configuration](Lists/View.md)
